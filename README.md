@@ -1,2 +1,2 @@
-# DATA-SCIENCE-Projects
-Project based on Machine Learning (Supervised and Unsupervised), Deep Learning and AI
+# KNN Classifier to classify if the CANCER is Malignant or Benign...
+This project based on Supervised Learning on the Breast Cancer Wisconsin (Diagnostic) Data Set.
